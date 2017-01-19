@@ -35,3 +35,22 @@ Or, use our container:
 ## Run TensorFlow with docker-machine on AWS p2(k80 GPU) instance
 
 [A setup example](provision/setup.sh)
+
+# Beginner
+
+## Linear regression
+
+```
+python linear_regression.py
+```
+
+## MNIST
+
+```
+cd mnist
+
+# For beginner
+python beginner.py
+# For expert
+python expert.py
+```
