@@ -46,6 +46,8 @@ python linear_regression.py
 
 ## MNIST
 
+Basic Trainer
+
 ```
 cd mnist
 
@@ -54,3 +56,7 @@ python beginner.py
 # For expert
 python expert.py
 ```
+
+Android
+
+[TensorFlowAndroidMNIST](https://github.com/miyosuda/TensorFlowAndroidMNIST)
